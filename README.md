@@ -1,4 +1,5 @@
 # replace-og
+Disclamier: use at your own risk and with caution, this script has been running at my plotters for a week now and no issues.
 Script to replace OG plots by date, as soon as madmax start a copy to destination, it will delete 1 OG plot, thus 'replacing' old plot.
 Place into directory as madmax plotter
 find line in 'script'
